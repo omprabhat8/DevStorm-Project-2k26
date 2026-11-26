@@ -8,7 +8,7 @@ Checks how strong a password is and whether it appears in known data breaches.
 - Shows whether the password was found in breaches and rates its strength.
 
 ## Built with
-Python, JavaScript, HTML
+CSS, JavaScript, HTML
 
 ## Team
 Built at the DevStorm hackathon (2026) by PHOENIX CODERS
